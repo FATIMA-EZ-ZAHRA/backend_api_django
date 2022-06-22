@@ -89,10 +89,10 @@ WSGI_APPLICATION = 'conference.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'conferences_api',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': '127.0.0.1',
+        'NAME': 'u500547363_django',
+        'USER': 'u500547363_django',
+        'PASSWORD': '9YvMnb~z',
+        'HOST': 'sql480.main-hosting.eu',
         'PORT': '3306',
     }
 }
