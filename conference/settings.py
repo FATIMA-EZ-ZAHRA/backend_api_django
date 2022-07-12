@@ -108,10 +108,10 @@ WSGI_APPLICATION = 'conference.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd1stuajlvbqeqa', 
-        'USER': 'wogejwdwvufvue', 
-        'PASSWORD': '91ef46fdf5bfa661461ac23cb3c7eabec0d0f0e622e24d656bb32d04a739af8f',
-        'HOST': 'ec2-63-32-248-14.eu-west-1.compute.amazonaws.com', 
+        'NAME': 'd5f5u82hf203pp', 
+        'USER': 'kjnhlkbqjvrwyl', 
+        'PASSWORD': '4746c2b03381bcdfed526d4afd440bd601b3b946594efa67b38574f13117f207',
+        'HOST': 'ec2-52-49-120-150.eu-west-1.compute.amazonaws.com', 
         'PORT': '5432',
     }
 }
